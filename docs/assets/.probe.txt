@@ -1,0 +1,1 @@
+const x={object:1,col:2,font:3,row:4,self:5};export{x};
